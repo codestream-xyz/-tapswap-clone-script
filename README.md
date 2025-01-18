@@ -4,7 +4,7 @@ This repository showcases the **TapSwap Script**, a foundation for a Telegram-ba
 
 **Ready to build your own game?** We provide end-to-end product implementation, so you can focus on marketing and scaling your community while we handle the technology.
 
-![Hamster Kombat Clone GitHub Image](/images/image1.jpg "White Label Hamster Kombat | GitHub")
+![TapSwap Clone GitHub Image](tapswap-clone.png "White Label Hamster Kombat | GitHub")
 
 
 ## Why Choose This Solution?
